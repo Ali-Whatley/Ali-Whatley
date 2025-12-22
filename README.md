@@ -2,16 +2,16 @@
 
 **Graduate Researcher @ Georgia Institute of Technology**
 
-I study how states navigate great power competition—specifically how domestic political institutions shape technology adoption, economic statecraft, and security policy in the Indo-Pacific.
+I study how states navigate great power competition—specifically how domestic political institutions shape technology adoption, economic statecraft, security policy, and energy politics. 
 
 ---
 
 ## 🔬 Research Interests
 
-- **Economic Statecraft** — How states weaponize interdependence and how targets respond
+- **Economic Security** — How states weaponize interdependence and how targets respond, Defense industrial base 
 - **Technology Competition** — Digital infrastructure, 5G, surveillance tech, and the US-China tech rivalry
 - **Domestic Political Economy** — Veto players, two-level games, and how institutions filter international pressures
-- **Indo-Pacific Security** — South China Sea disputes, ASEAN hedging strategies, defense policy
+- **Energy Security** — Critical infrastructure, energy transitions, and the geopolitics of resource competition
 
 ---
 

@@ -107,5 +107,3 @@ I study how states navigate great power competition—focusing on energy securit
 </p>
 
 ---
-
-*"The question is not whether to face the security-development tradeoff, but how to navigate it—and that is fundamentally a domestic political question."*

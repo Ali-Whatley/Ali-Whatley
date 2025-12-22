@@ -1,25 +1,56 @@
 # Hi, I'm Ali 👋
 
-**Graduate Researcher @ Georgia Institute of Technology**
+**MS International Affairs @ Georgia Institute of Technology**  
+*Tracks: Science & Technology | International Security*
 
-I study how states navigate great power competition—specifically how domestic political institutions shape technology adoption, economic statecraft, security policy, and energy politics. 
+I study how states navigate great power competition—focusing on energy security, economic statecraft, technological proliferation, and the political economy of defense.
+
+---
+
+## 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:awhatley9@gatech.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-whatley-907a22187/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AliWhatley24)
 
 ---
 
 ## 🔬 Research Interests
 
-- **Economic Security** — How states weaponize interdependence and how targets respond, Defense industrial base 
-- **Technology Competition** — Digital infrastructure, 5G, surveillance tech, and the US-China tech rivalry
-- **Domestic Political Economy** — Veto players, two-level games, and how institutions filter international pressures
-- **Energy Security** — Critical infrastructure, energy transitions, and the geopolitics of resource competition
+- **Energy Security** — Energy systems, national security implications, and policy responses to energy shocks
+- **Economic Statecraft** — How states weaponize interdependence and how targets respond
+- **Technological Proliferation** — Emerging technologies, dual-use systems, and proliferation risks
+- **International Security** — Great power competition, defense policy, and aerospace systems
+- **Political Economy of Defense** — How domestic institutions shape security policy and procurement
 
 ---
 
-## 📊 Current Projects
+## 📊 Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
 | [DSR-Analysis](https://github.com/Ali-Whatley/DSR-Analysis) | Spatial bargaining model of Digital Silk Road adoption in Southeast Asia | 🔄 Active |
+| ASDL Grand Challenge | Tabletop tool for policymakers to facilitate quantitative responses to energy shocks | ✅ Complete |
+| Natural Gas Deregulation | Analysis of natural gas pricing dynamics post-deregulation | ✅ Complete |
+
+---
+
+## 💼 Experience
+
+**U.S. Department of Labor – Bureau of Labor Statistics**  
+*Research Intern | Atlanta, GA | Summer 2024*  
+- Time series analysis using R and Excel
+- Updated BLS code and NAICS classification tools
+
+**Pollitik Lab – Political Popularity Project**  
+*Research Collaborator | 2023–2024*  
+- Contributed to the Executive Approval Project database
+- Comparative analysis of executive approval across national electorates
+
+**ASDL – Aerospace Systems Design Laboratory**  
+*Graduate Researcher | Georgia Tech*  
+- Built parametric aircraft design model in MagicDraw/SysML
+- Automated performance calculations and design space exploration
 
 ---
 
@@ -33,31 +64,36 @@ I study how states navigate great power competition—specifically how domestic 
 
 **Data & GIS**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white)
 ![GDELT](https://img.shields.io/badge/GDELT-Event%20Data-blue?style=flat)
 
+**Systems Modeling**  
+![SysML](https://img.shields.io/badge/SysML-MagicDraw-purple?style=flat)
+![NetLogo](https://img.shields.io/badge/NetLogo-Agent--Based-green?style=flat)
+
 **Methods**  
-`Panel Data` · `Spatial Models` · `Case Studies` · `Media Analysis` · `Game Theory`
+`Panel Data` · `Time Series` · `Spatial Models` · `Case Studies` · `Game Theory` · `Agent-Based Modeling`
+
+---
+
+## 🎓 Education
+
+**Georgia Institute of Technology** — MS International Affairs *(2025–2027)*  
+- Tracks: Science & Technology | International Security  
+- Certificates: International Security & Aerospace Systems, Emerging Technologies & Proliferation
+
+**Georgia State University** — BS Economics, BA Political Science *(2022–2025)*  
+- Certificate: Global Scholar
 
 ---
 
 ## 📚 Key Influences
 
-> *"International relations theories are theories of domestic politics."*  
-> — Andrew Moravcsik
-
 - Putnam (1988) — Two-Level Games
 - Tsebelis (2002) — Veto Players  
+- Farrell & Newman (2019) — Weaponized Interdependence
 - Milner (1997) — Interests, Institutions, and Information
-- Alex Wellerstein
-
----
-
-## 📫 Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:awhatley9@gatech.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-whatley-907a22187/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AliWhatley24)
 
 ---
 

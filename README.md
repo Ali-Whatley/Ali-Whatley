@@ -29,8 +29,8 @@ I study how states navigate great power competition—focusing on energy securit
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [DSR-Analysis](https://github.com/Ali-Whatley/DSR-Analysis) | Spatial bargaining model of Digital Silk Road adoption in Southeast Asia | 🔄 Active |
-| ASDL Grand Challenge | Tabletop tool for policymakers to facilitate quantitative responses to energy shocks | ✅ Complete |
+| [DSR-Analysis](https://github.com/Ali-Whatley/DSR-Analysis) | Spatial bargaining model of Digital Silk Road adoption in Southeast Asia | ✅ Complete |
+| ASDL Grand Challenge | Tabletop tool for policymakers to facilitate quantitative responses to energy shocks | 🔄 Active |
 | Natural Gas Deregulation | Analysis of natural gas pricing dynamics post-deregulation | ✅ Complete |
 
 ---
@@ -90,10 +90,15 @@ I study how states navigate great power competition—focusing on energy securit
 
 ## 📚 Key Influences
 
+**IR & Security**
 - Putnam (1988) — Two-Level Games
 - Tsebelis (2002) — Veto Players  
 - Farrell & Newman (2019) — Weaponized Interdependence
 - Milner (1997) — Interests, Institutions, and Information
+- Wellerstein — Nuclear secrecy, proliferation, and the bomb
+
+**Political Economy**
+- Keynes — Macroeconomic policy and state intervention
 
 ---
 

@@ -33,7 +33,7 @@ I study how states navigate great power competition—focusing on energy securit
 | ASDL Energy Security | Tabletop tool for quantitative policy responses to energy shocks | 🔄 Active |
 | [SEIR-Epidemic-Model](https://github.com/Ali-Whatley/Epidemiological-model) | Agent-based epidemiological simulation with vaccination & quarantine dynamics | ✅ Complete |
 | Natural Gas Deregulation | Analysis of natural gas pricing dynamics post-deregulation | ✅ Complete |
-|Conflict Intensity and Trade | Examination of the effects of trade relationships on conflict intesnity within dyads | 🔄 Active |
+|[Conflict Intensity and Trade](https://github.com/Ali-Whatley/COW-Methods-Tables) | Examination of the effects of trade relationships on conflict intesnity within dyads | 🔄 Active |
 
 ---
 

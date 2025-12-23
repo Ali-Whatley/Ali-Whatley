@@ -30,7 +30,8 @@ I study how states navigate great power competition—focusing on energy securit
 | Project | Description | Status |
 |---------|-------------|--------|
 | [DSR-Analysis](https://github.com/Ali-Whatley/DSR-Analysis) | Spatial bargaining model of Digital Silk Road adoption in Southeast Asia | ✅ Complete |
-| ASDL Grand Challenge | Tabletop tool for policymakers to facilitate quantitative responses to energy shocks | 🔄 Active |
+| ASDL Energy Security | Tabletop tool for quantitative policy responses to energy shocks | 🔄 Active |
+| SEIR-Epidemic-Model | Agent-based epidemiological simulation with vaccination & quarantine dynamics | ✅ Complete |
 | Natural Gas Deregulation | Analysis of natural gas pricing dynamics post-deregulation | ✅ Complete |
 
 ---
@@ -48,9 +49,10 @@ I study how states navigate great power competition—focusing on energy securit
 - Comparative analysis of executive approval across national electorates
 
 **ASDL – Aerospace Systems Design Laboratory**  
-*Graduate Researcher | Georgia Tech*  
-- Built parametric aircraft design model in MagicDraw/SysML
-- Automated performance calculations and design space exploration
+*Graduate Researcher | Georgia Tech | 2025–2026*  
+- Year-long research collaboration with Sam Nunn School & Strategic Energy Institute
+- Building tabletop simulation tool for policymakers to assess energy system vulnerabilities
+- Enabling quantitative policy analysis for tactical responses to energy shocks
 
 ---
 

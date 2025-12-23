@@ -31,8 +31,9 @@ I study how states navigate great power competition—focusing on energy securit
 |---------|-------------|--------|
 | [DSR-Analysis](https://github.com/Ali-Whatley/DSR-Analysis) | Spatial bargaining model of Digital Silk Road adoption in Southeast Asia | ✅ Complete |
 | ASDL Energy Security | Tabletop tool for quantitative policy responses to energy shocks | 🔄 Active |
-| SEIR-Epidemic-Model | Agent-based epidemiological simulation with vaccination & quarantine dynamics | ✅ Complete |
+| [SEIR-Epidemic-Model](https://github.com/Ali-Whatley/Epidemiological-model) | Agent-based epidemiological simulation with vaccination & quarantine dynamics | ✅ Complete |
 | Natural Gas Deregulation | Analysis of natural gas pricing dynamics post-deregulation | ✅ Complete |
+|Conflict Intensity and Trade | Examination of the effects of trade relationships on conflict intesnity within dyads | 🔄 Active |
 
 ---
 

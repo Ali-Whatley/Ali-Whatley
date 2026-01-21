@@ -1,4 +1,4 @@
-# Hi, I'm Ali 👋
+# Hi, I'm Ali 
 
 **MS International Affairs @ Georgia Institute of Technology**  
 *Tracks: Science & Technology | International Security*
@@ -7,7 +7,7 @@ I study how states navigate great power competition—focusing on energy securit
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:awhatley9@gatech.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-whatley-907a22187/)
@@ -15,7 +15,7 @@ I study how states navigate great power competition—focusing on energy securit
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - **Energy Security** — Energy systems, national security implications, and policy responses to energy shocks
 - **Economic Statecraft** — How states weaponize interdependence and how targets respond
@@ -25,7 +25,7 @@ I study how states navigate great power competition—focusing on energy securit
 
 ---
 
-## 📊 Projects
+## Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
@@ -37,7 +37,7 @@ I study how states navigate great power competition—focusing on energy securit
 
 ---
 
-## 💼 Experience
+## Experience
 
 **U.S. Department of Labor – Bureau of Labor Statistics**  
 *Research Intern | Atlanta, GA | Summer 2024*  
@@ -57,7 +57,7 @@ I study how states navigate great power competition—focusing on energy securit
 
 ---
 
-## 🛠️ Tools & Methods
+## Tools & Methods
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -80,7 +80,7 @@ I study how states navigate great power competition—focusing on energy securit
 
 ---
 
-## 🎓 Education
+## Education
 
 **Georgia Institute of Technology** — MS International Affairs *(2025–2027)*  
 - Tracks: Science & Technology | International Security  
@@ -88,20 +88,6 @@ I study how states navigate great power competition—focusing on energy securit
 
 **Georgia State University** — BS Economics, BA Political Science *(2022–2025)*  
 - Certificate: Global Scholar
-
----
-
-## 📚 Key Influences
-
-**IR & Security**
-- Putnam (1988) — Two-Level Games
-- Tsebelis (2002) — Veto Players  
-- Farrell & Newman (2019) — Weaponized Interdependence
-- Milner (1997) — Interests, Institutions, and Information
-- Wellerstein — Nuclear secrecy, proliferation, and the bomb
-
-**Political Economy**
-- Keynes — Macroeconomic policy and state intervention
 
 ---
 
